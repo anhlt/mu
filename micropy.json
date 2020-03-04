@@ -1,0 +1,16 @@
+{
+    "name": "h4ck3r_mu",
+    "stubs": {
+        "esp32-micropython-1.11.0": "1.2.0"
+    },
+    "dev-packages": {
+        "micropy-cli": "*"
+    },
+    "packages": {
+        "smbus": "*"
+    },
+    "config": {
+        "vscode": true,
+        "pylint": true
+    }
+}
